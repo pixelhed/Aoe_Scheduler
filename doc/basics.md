@@ -62,4 +62,4 @@ Specifically explain 'Cron configuration path' vs 'Cron expression' since a xml 
 
 if db_xml's cron_configuration_path and the xml' cron_confiruation_path isn't then the latter one wins even is the db_xml has a cron_expression
 
-Explain how empty field doesn't mean that this is a fallback, but that the field is actually empty. If the overlay field equals to the xml field than this will not be persistet (=fallback)
+Explain how empty field doesn't mean that this is a fallback, but that the field is actually empty. If the overlay field equals to the xml field than this will not be persisted (=fallback)
