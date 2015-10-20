@@ -1,6 +1,6 @@
 cron.sh vs cron.php vs scheduler_cron.sh
 
-Recommendet frequency
+Recommended frequency
 
 always vs default
 
