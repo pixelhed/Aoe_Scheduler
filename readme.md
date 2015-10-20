@@ -34,7 +34,7 @@ Version 1.0.0 is a major release. If you're updating from version 0.X please che
 - **Instructions**: A new admin modules assists you in settings up your cron configuration.
 - **Monitoring**: Heartbeat, Watchdog, last-seen, verification
 - **Compatible with Magento's native cron scheduler**
-- **Manuel scheduling and running**: Schedule or run your jobs manually or programmatically. This comes in handly during development or if you have actions that might have to be triggered manually at times (e.g. re-import product catalog, re-run statistics,...)
+- **Manual scheduling and running**: Schedule or run your jobs manually or programmatically. This comes in handly during development or if you have actions that might have to be triggered manually at times (e.g. re-import product catalog, re-run statistics,...)
 
 
 ## Authors, contributors and maintainers
