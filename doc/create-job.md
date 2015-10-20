@@ -43,7 +43,7 @@ In your modules config.xml file (e.g. `app/code/local/My/Module/etc/config.xml`)
 </config>
 ```
 
-**Hint:** instead of hardcoding your schedule in '<schedule><cron_expr>' you can use '<schedule><config_path>' instead pointing to a configuration option that holds your schedule. This configuration option can be made avilable through 'System > Configuration'.
+**Hint:** instead of hardcoding your schedule in `<schedule><cron_expr>` you can use `<schedule><config_path>` instead pointing to a configuration option that holds your schedule. This configuration option can be made avilable through 'System > Configuration'.
 On the other hand, Aoe Scheduler now let's you edit any job and overwrite any hardcoded schedule even if it wasn't pointing to a config path.
 
 TODO: Add complete list of xml tags here, with description (e.g. what's the run>model syntax...)!
